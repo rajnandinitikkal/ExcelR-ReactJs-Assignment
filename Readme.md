@@ -1,6 +1,6 @@
 # React Assignments
 ### 1)	Write a program to configure routing with authentication with sharing information with and without login?
-[Ans](./authentication/)
+[Program](./authentication/)
 
 ### 2)	Write a program to create login and signup forms and on successful login need to show the dashboard with all logged in users?
 [Program](./components/)
